@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Real Madrid",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png"
+  },
+  {
+    "id": 2,
+    "name": "Barcelona",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png"
+  },
+  {
+    "id": 3,
+    "name": "Bayern Munich",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/FC_Bayern_Munich_logo.svg/1200px-FC_Bayern_Munich_logo.svg.png"
+  },
+  {
+    "id": 4,
+    "name": "Manchester City",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png"
+  },
+  {
+    "id": 5,
+    "name": "Liverpool",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png"
+  },
+  {
+    "id": 6,
+    "name": "Paris Saint-Germain",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png"
+  },
+  {
+    "id": 7,
+    "name": "Chelsea",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png"
+  },
+  {
+    "id": 8,
+    "name": "Atletico Madrid",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Club_Atl%C3%A9tico_de_Madrid_logo.svg/1200px-Club_Atl%C3%A9tico_de_Madrid_logo.svg.png"
+  },
+  {
+    "id": 9,
+    "name": "Borussia Dortmund",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+  },
+  {
+    "id": 10,
+    "name": "Manchester United",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png"
+  },
+  {
+    "id": 11,
+    "name": "Juventus",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Juventus_FC_2017_logo.svg/1200px-Juventus_FC_2017_logo.svg.png"
+  },
+  {
+    "id": 12,
+    "name": "Inter Milan",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png"
+  },
+  {
+    "id": 13,
+    "name": "AC Milan",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AC_Milan.svg/1200px-AC_Milan.svg.png"
+  },
+  {
+    "id": 14,
+    "name": "Atlético Madrid",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Club_Atl%C3%A9tico_de_Madrid_logo.svg/1200px-Club_Atl%C3%A9tico_de_Madrid_logo.svg.png"
+  },
+  {
+    "id": 15,
+    "name": "Sevilla",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Sevilla_FC.svg/1200px-Sevilla_FC.svg.png"
+  },
+  {
+    "id": 16,
+    "name": "Ajax",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/AFC_Ajax_Amsterdam.svg/1200px-AFC_Ajax_Amsterdam.svg.png"
+  }
+]
